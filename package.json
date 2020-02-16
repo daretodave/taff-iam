@@ -1,0 +1,23 @@
+{
+  "name": "taff-iam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daretodave/taff-iam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daretodave/taff-iam/issues"
+  },
+  "homepage": "https://github.com/daretodave/taff-iam#readme",
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
+}
